@@ -1,3 +1,4 @@
 *
 !.gitignore
 !.config
+!install-and-rebuild.sh
